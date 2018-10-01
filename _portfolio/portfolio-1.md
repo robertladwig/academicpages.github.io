@@ -1,6 +1,6 @@
 ---
 title: "Physical Limnology of Urban Lakes"
-excerpt: "Urban lakes are influenced by multiple external factors shaping their physical characteristics and ecosystems<br/><img src='/images/500x300.png'>"
+excerpt: "Urban lakes are influenced by multiple external factors shaping their physical characteristics and ecosystems.<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
