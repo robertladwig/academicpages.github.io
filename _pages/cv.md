@@ -38,5 +38,10 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-  
+
+Memberships
+======
+* International Society of Limnology (SIL)
+* European Geosciences Union (EGU)
+* Ecology and Civil Engineering Society Japan (ECESJ)
 
