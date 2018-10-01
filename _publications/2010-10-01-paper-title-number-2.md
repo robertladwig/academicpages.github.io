@@ -10,7 +10,5 @@ citation: 'Ladwig R., Furusato E., Kirillin G., Hinkelmann R., Hupfer M. (2018):
 ---
 This paper is about the calibration of a vertical 1D hydrodynamic-water quality model (GLM-AED2) to Lake Tegel. The model was used to investigate the impact of climate change under alternative management scenarios on the lake ecosystem.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
 Recommended citation: Ladwig R., Furusato E., Kirillin G., Hinkelmann R., Hupfer M. (2018): "Climate Change Demands Adaptive Management of Urban Lakes: Model- Based Assessment of Management Scenarios for Lake Tegel (Berlin, Germany)" Water 10, 168, doi 10.3390/w10020186
 
