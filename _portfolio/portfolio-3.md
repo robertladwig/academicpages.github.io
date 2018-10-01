@@ -1,6 +1,6 @@
 ---
 title: "Sediment Biogeochemistry"
-excerpt: "Diagenetic reactions in the lake sediments determine retention and internal fluxes in the lake ecosystem<br/><img src='/images/500x300.png'>"
+excerpt: "Diagenetic reactions in the lake sediments determine retention and internal fluxes in the lake ecosystem.<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
