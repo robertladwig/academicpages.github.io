@@ -19,7 +19,7 @@ Work experience
 ======
 * September - November 2017: Special Research Student
   * Saitama University Japan
-  * Duties included: Application of bubble plume mixing technique to improve pond water quality & ecological modeling of phytoplankton blooms
+  * Application of bubble plume mixing technique to improve pond water quality & ecological modeling of phytoplankton blooms
   * Supervisor: Assist. Prof. Dr. Eiichi Furusato
 
   
