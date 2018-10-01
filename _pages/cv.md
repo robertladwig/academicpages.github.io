@@ -26,30 +26,11 @@ Work experience
 Skills
 ======
 * Programming
-  * MATLAB/Octave
-  * Python
-  * R
+  * MATLAB/Octave, Python, R
 * Modeling
-  * GLM
-  * AED2
-  * open TELEMAC-MASCARET
-  * OpenGeoSys
-  * FLake
-  * MODFLOW-2005
-  * PCLake
-  * PHREEQC
-  * HEC-RAS
-  * AKWA-M
-  * Hydrus
+  * GLM, AED2, open TELEMAC-MASCARET, OpenGeoSys, FLake, MODFLOW-2005, PCLake, PHREEQC, HEC-RAS, AKWA-M, Hydrus
 * Misc.
-  * Microsoft Office
-  * LaTeX
-  * ArcGIS
-  * QGIS
-  * ParaView
-  * Inkscape
-  * Github
-  * FileZilla
+  * Microsoft Office, LaTeX, ArcGIS, QGIS, ParaView, Inkscape, Github, FileZilla
 
 Publications
 ======
