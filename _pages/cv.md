@@ -11,11 +11,11 @@ redirect_from:
 
 Education
 ======
-* Ph.D Candidate in Civil Engineering, Technische Universität Berlin / Leibniz-Institute of Freshwater Ecology and Inland Fisheries Berlin, since 2015 
+* Ph.D Candidate in Civil Engineering, Technische Universität Berlin / Leibniz-Institute of Freshwater Ecology and Inland Fisheries Berlin (Germany), since 2015 
   * Thesis: "Adapting the water management to mitigate the impact of multiple stressors on an urban lake: Case study Lake Tegel, Germany"
-* M.Sc. in Hydrology, Technische Universität Dresden, 2015
+* M.Sc. in Hydrology, Technische Universität Dresden (Germany), 2015
   * Thesis: "Optimal management of arid coastal aquifers with the use of density dependent groundwater flow modeling and artificial neural networks"
-* B.Sc. in BioGeoSciences, Friedrich-Schiller University Jena, 2012
+* B.Sc. in BioGeoSciences, Friedrich-Schiller University Jena (Germany), 2012
   * Thesis: "Spatiotemporal status of the heavy metal contamination in natural and contaminated test sites"
 
 
@@ -27,7 +27,7 @@ Work experience
   * Application of bubble plume mixing technique to improve pond water quality & ecological modeling of phytoplankton blooms
   * Supervisor: Assist. Prof. Dr. Eiichi Furusato
 * May - July 2017: Research Assistant
-  * Technische Universität Dresden
+  * Technische Universität Dresden, Germany
   * Modeling and economic evaluation of groundwater management scenarios; correction and evaluation
 of written exams in the modules 'Hydrological Models' and 'Climatology and Hydrology'
 
