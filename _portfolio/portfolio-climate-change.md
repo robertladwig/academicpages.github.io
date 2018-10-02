@@ -10,4 +10,4 @@ The vertical 1D model GLM-AED2 was calibrated and valiated for an urban lake in 
 
 To investigate the impact of short-duration heavy rainfall events, which can become more frequent and intense due to climate change, on the lake ecosystem, a depth-averaged 2D model (open TELEMAC-MASCARET) was calibrated to an urban lake using a time series of 15 years. The model could sufficiently replicate the hydrodynamics as well as surface concentrations of phosphate, nitrate, ammonia and dissolved oxygen. Different management measures during an example heavy rainfall event were investigated. The main outcome was that an external elimination of nutrients seems to be the best strategy to mitigate the formation of phytoplankton blooms after the heavy rainfall event compared to an increase of discharges, which aimed at reducing the hydraulic retention time.
 
-For more information, see [Ladwig et al. (2018)](https://robertladwig.github.io/publications/2010-10-01-paper-title-number-2/).
+For more information, see [Ladwig et al. (2018)](https://robertladwig.github.io/publications/2018-02-10-climate-change-demands/).
