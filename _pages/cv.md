@@ -50,7 +50,7 @@ Publications
 
 Teaching 
 ======
-* Lecture about "Modelling of surface water systems" in the graduate course "Water Resource
+* Guest lecture about "Modelling of surface water systems" in the graduate course "Water Resource
 and Environmental Engineering 2017" at Saitama University, Japan
 
 Memberships
