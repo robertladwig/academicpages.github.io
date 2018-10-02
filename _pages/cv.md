@@ -34,12 +34,12 @@ of written exams in the modules 'Hydrological Models' and 'Climatology and Hydro
 
 Scientific presentations
 ======
-* [How can we adapt urban lake management in times of climate change?](http://www.water-research-horizon.de/assets/9-wrhc-2018_a3-2c_ladwig.pdf), Invited oral presentation, 9th Water Research Horizon Conference, Dresden, Germany, 03.-04.07.2018
-* [From 1D to 2D: Impact of extreme weather events and climate change on the heavily stressed urban Lake Tegel in Berlin, Germany](https://meetingorganizer.copernicus.org/EGU2018/EGU2018-12529.pdf), Poster presentation, EGU General Assembly, Vienna, Austria, 09.-13.04.2018
-* Model-based assessment of urban water management strategies for a shallow dimictic lake, Poster presentation, ELR2017NAGOA and ICLEE 8th Conference, Nagoya, Japan, 22.-25.09.2017
-* [Lake on life support: Evaluating urban lake management measures by using a coupled 1D-modeling approach](http://meetingorganizer.copernicus.org/EGU2017/EGU2017-7339.pdf), Oral presentation, EGU General Assembly, Vienna, Austria, 23.- 28.04.2017
-* Qualitative Beurteilung von Bewirtschaftungsmaßnahmen im Sediment eines urbanen Sees mittels multivariater Statistik, Oral presentation (in German), DGL Tagung Wien, Vienna, Austria, 26.-30.09.2016
-* Urban Water Interfaces: Interfaces in Urban SurfaceWaters, Oral presentation, 6th German- Russian Week of the Young Researcher, Moscow, Russia, 12.-16.09.2016
+* [How can we adapt urban lake management in times of climate change?](http://www.water-research-horizon.de/assets/9-wrhc-2018_a3-2c_ladwig.pdf). Invited oral presentation, 9th Water Research Horizon Conference, Dresden, Germany, 03.-04.07.2018
+* [From 1D to 2D: Impact of extreme weather events and climate change on the heavily stressed urban Lake Tegel in Berlin, Germany](https://meetingorganizer.copernicus.org/EGU2018/EGU2018-12529.pdf). Poster presentation, EGU General Assembly, Vienna, Austria, 09.-13.04.2018
+* Model-based assessment of urban water management strategies for a shallow dimictic lake. Poster presentation, ELR2017NAGOA and ICLEE 8th Conference, Nagoya, Japan, 22.-25.09.2017
+* [Lake on life support: Evaluating urban lake management measures by using a coupled 1D-modeling approach](http://meetingorganizer.copernicus.org/EGU2017/EGU2017-7339.pdf). Oral presentation, EGU General Assembly, Vienna, Austria, 23.- 28.04.2017
+* Qualitative Beurteilung von Bewirtschaftungsmaßnahmen im Sediment eines urbanen Sees mittels multivariater Statistik. Oral presentation (in German), DGL Tagung Wien, Vienna, Austria, 26.-30.09.2016
+* Urban Water Interfaces: Interfaces in Urban Surface Waters. Oral presentation, 6th German- Russian Week of the Young Researcher, Moscow, Russia, 12.-16.09.2016
 
 
 Skills
