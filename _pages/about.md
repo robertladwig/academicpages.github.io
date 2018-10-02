@@ -16,6 +16,4 @@ A focus of my work is to produce a fast and reproducible workflow for the applic
 
 Privacy
 ======
-This site is hosted on Github and maintained by Robert Ladwig.
-
-For Github's privay policy, please visit [Github Privacy Statement](https://help.github.com/articles/github-privacy-statement/).
+This site is hosted on Github and maintained by Robert Ladwig. For Github's privay policy, please visit [Github Privacy Statement](https://help.github.com/articles/github-privacy-statement/).
