@@ -7,8 +7,6 @@ redirect_from:
   - /markdown.html
 ---
 
-**Impressum**
-
 Robert Ladwig
 
 Parksiedlung Spruch 122
