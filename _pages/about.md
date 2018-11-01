@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-**News! [01.11.18]** I am going to attend the GLEON 20 All Hands' Meeting at Rottnest Island this year! This is a very exciting opportunity for me to learn more about global lake collaborations and the hydrodynamic GLM model.
-{: .notice}
+#**News! [01.11.18]** I am going to attend the GLEON 20 All Hands' Meeting at Rottnest Island this year! This is a very exciting #opportunity for me to learn more about global lake collaborations and the hydrodynamic GLM model.
+#{: .notice}
 
 Hi, my name is Robert and I am a hydrologist turned limnologist with a huge interest in numerical modeling of freshwater ecosystems and environmental fluid dynamics. I am a PhD student at the [Leibniz-Institute of Freshwater Ecology and Inland Fisheries (IGB)](https://www.igb-berlin.de/en) in Berlin, Germany, supervised by [Dr. Michael Hupfer](https://www.igb-berlin.de/en/hupfer). Here, I study the impact of multiple stressors on urban lakes using field sampling, monitoring and numerical modeling. Urban lakes are strongly managed systems, which are influenced by a large sealed urban catchment area with multiple sources of diffuse pollutants. By applying different numerical models (GLM-AED2, FLake, open TELEMAC-MASCARET), I have investigated how the urban lake management can adapt to mitigate the impact of stressors on the lake ecosystem. My research was carried out as project T4 of the Research Training Group [“Urban Water Interfaces (UWI)”](https://www.uwi.tu-berlin.de/menue/urban_water_interfaces/) (GRK 2032/1), which is funded by the German Research Foundation (DFG). 
 
