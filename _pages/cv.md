@@ -65,6 +65,7 @@ and Environmental Engineering 2017" at Saitama University, Japan
 
 Memberships
 ======
+* Global Lake Ecological Observatory Network (GLEON)
 * International Society of Limnology (SIL)
 * European Geosciences Union (EGU)
 * Ecology and Civil Engineering Society Japan (ECESJ)
