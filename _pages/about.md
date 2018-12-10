@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-**NEWS! [2018-12-10]** I've just came back from the GLEON20 meeting at Rottnest Island in Australia. Wow, what a fantastic experience. I think I've never discussed that much science (and, more important, modelling) during a week before in my life!
+**NEWS!**
+**[2018-12-10]** I've just came back from the GLEON20 meeting at Rottnest Island in Australia. Wow, what a fantastic experience. I think I've never discussed that much science (and, more important, modelling) during a week before in my life!
 **[2018-10-22]** After 1209 days, I have finally submitted my PhD thesis!
 {: .notice}
 
