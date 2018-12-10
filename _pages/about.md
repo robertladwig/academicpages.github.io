@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-**NEWS! [2018-10-22]** After 1209 days, I have finally submitted my PhD thesis!
+**NEWS! [2018-12-10]** I've just came back from the GLEON20 meeting at Rottnest Island in Australia. Wow, what a fantastic experience. I think I've never discussed that much science (and, more important, modelling) during a week before in my life!
+**[2018-10-22]** After 1209 days, I have finally submitted my PhD thesis!
 {: .notice}
 
 Hi, my name is Robert and I am a hydrologist turned limnologist with a huge interest in numerical modeling of freshwater ecosystems and environmental fluid dynamics. I am a PhD student at the [Leibniz-Institute of Freshwater Ecology and Inland Fisheries (IGB)](https://www.igb-berlin.de/en) in Berlin, Germany, supervised by [Dr. Michael Hupfer](https://www.igb-berlin.de/en/hupfer). Here, I study the impact of multiple stressors on urban lakes using field sampling, monitoring and numerical modeling. Urban lakes are strongly managed systems, which are influenced by a large sealed urban catchment area with multiple sources of diffuse pollutants. By applying different numerical models (GLM-AED2, FLake, open TELEMAC-MASCARET), I have investigated how the urban lake management can adapt to mitigate the impact of stressors on the lake ecosystem. My research was carried out as project T4 of the Research Training Group [“Urban Water Interfaces (UWI)”](https://www.uwi.tu-berlin.de/menue/urban_water_interfaces/) (GRK 2032/1), which is funded by the German Research Foundation (DFG). 
