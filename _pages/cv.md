@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Work experience
+Experience
 ======
 * September - November 2017: Special Research Student
   * Saitama University, Japan
