@@ -12,3 +12,5 @@ For more information, see [Ladwig et al. (2017)](https://robertladwig.github.io/
 
 Another important factor shaping the potential P retention in sediments are so-called ecosystem engineers like chironomid larvae. These insects form burrows in the sediment that enable oxygen fluxes to penetrate into deeper sediment layers potentially promoting a long-lasting retention of P.
 
+For more information, see [Hupfer et al. (2019)](https://robertladwig.github.io/publications/2019-01-23-chironomid-larvae/).
+
