@@ -2,7 +2,7 @@
 title: "Chironomid larvae enhance phosphorus burial in lake sediments: Insights from long-term and short-term experiments"
 collection: publications
 permalink: 
-excerpt: 'This paper is about the analysis of the sediment composition of an urban lake using XRF scanning and post-processing by multivariate statistical methods (PCA, k-means, SOM).'
+excerpt: 'This paper investigates the bioturbation effects by chironomid larvae on phosphorus retention.'
 date: 2019-01-23
 venue: 'Science of The Total Environment'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0048969719303195'
