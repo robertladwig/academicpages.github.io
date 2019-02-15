@@ -44,7 +44,7 @@ Scientific presentations
 Skills
 ======
 * Programming
-  * R MATLAB/Octave, Python
+  * R, MATLAB/Octave, Python
 * Modeling
   * GLM, AED2, open TELEMAC-MASCARET, OpenGeoSys, FLake, MODFLOW-2005, PCLake, PHREEQC, HEC-RAS, AKWA-M, Hydrus
 * Misc.
