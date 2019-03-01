@@ -9,6 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
+Professional Appointments
+======
+* Postdoctoral Fellow, University of Wisconsin-Madison, Center for Limnology, since 2019
+  * Aquatic ecosystem modelling, pre- and post-processing of data
+  * Lab of [Hilary Dugan](https://dugan.limnology.wisc.edu/)
+  
+  
 Experience
 ======
 * September - November 2017: Special Research Student
@@ -23,7 +30,7 @@ of written exams in the modules 'Hydrological Models' and 'Climatology and Hydro
 
 Education
 ======
-* Ph.D Candidate in Civil Engineering, Technische Universität Berlin / Leibniz-Institute of Freshwater Ecology and Inland Fisheries Berlin (Germany), since 2015 
+* Ph.D Candidate in Civil Engineering, Technische Universität Berlin / Leibniz-Institute of Freshwater Ecology and Inland Fisheries Berlin (Germany), 2019 
   * Thesis: "Adapting the water management to mitigate the impact of multiple stressors on an urban lake: Case study Lake Tegel, Germany"
 * M.Sc. in Hydrology, Technische Universität Dresden (Germany), 2015
   * Thesis: "Optimal management of arid coastal aquifers with the use of density dependent groundwater flow modeling and artificial neural networks"
