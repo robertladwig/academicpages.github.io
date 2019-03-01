@@ -13,7 +13,6 @@ Professional Appointments
 ======
 * Postdoctoral Fellow, University of Wisconsin-Madison, Center for Limnology, since 2019
   * Aquatic ecosystem modelling, pre- and post-processing of data
-  * Lab of [Hilary Dugan](https://dugan.limnology.wisc.edu/)
   
   
 Experience
