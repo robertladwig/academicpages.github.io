@@ -1,5 +1,5 @@
 ---
-title: "Impact of Climate Change on Urban Lakes"
+title: "Impact of Climate Change on Lakes"
 excerpt: "Lakes are vulnerable to changes in meteorological boundary conditions. Especially climate change will affect the thermal stratification of lakes and make short-duration heavy rainfall events more frequent and intense. <br/><img src='/images/climatechange.png'>"
 collection: portfolio
 ---
