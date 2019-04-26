@@ -9,9 +9,8 @@ redirect_from:
 
 Robert Ladwig
 
-Parksiedlung Spruch 122
-
-12349 Berlin, Germany
+703 Eagle Heights K
+53705 Madison, WI, USA
 
 ladwig.jena ät gmail com
 
