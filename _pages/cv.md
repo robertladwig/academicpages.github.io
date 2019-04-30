@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[CV.pdf](https://github.com/robertladwig/robertladwig.github.io/blob/master/files/CurriculumVitae_Ladwig.pdf)
+[Complete CV](https://robertladwig.github.io/pdf/CV_Ladwig.pdf)
 
 Professional Appointments
 ======
