@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Complete CV, April 2019](https://robertladwig.github.io/pdf/CV_Ladwig.pdf)
+[Download my <ins>complete CV<ins> (April 2019) here](https://robertladwig.github.io/pdf/CV_Ladwig.pdf)
 
 Professional Appointments
 ======
