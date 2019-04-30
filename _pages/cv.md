@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[CV.pdf](https://github.com/robertladwig/robertladwig.github.io/blob/master/files/CurriculumVitae_Ladwig.pdf)
+
 Professional Appointments
 ======
 * Postdoctoral Fellow, University of Wisconsin-Madison, Center for Limnology, since 2019
