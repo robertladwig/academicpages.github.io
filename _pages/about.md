@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-**[2019-03-01]** Today is my first working day as a Postdoc at the Center for Limnology at University of Wisconsin-Madison! I am so excited to join Hilary Dugan's Lab to develop modelling tools. Equations don't explode! **[2018-12-10]** I've just came back from the GLEON20 meeting at Rottnest Island in Australia. Wow, what a fantastic experience. I think I've never discussed that much science (and, more important, modelling) during a week before in my life!
+**[2019-03-01]** Today is my first working day as a Postdoc at the Center for Limnology at University of Wisconsin-Madison! I am so excited to join Hilary Dugan's Lab to develop modelling tools. **[2018-12-10]** I've just came back from the GLEON20 meeting at Rottnest Island in Australia. Wow, what a fantastic experience. I think I've never discussed that much science (and, more important, modelling) during a week before in my life!
 **[2018-10-22]** After 1209 days, I have finally submitted my PhD thesis!
 {: .notice}
 
