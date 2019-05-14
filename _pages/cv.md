@@ -31,7 +31,7 @@ of written exams in the modules 'Hydrological Models' and 'Climatology and Hydro
 
 Education
 ======
-* Doctoral candidate, Technische Universität Berlin / Leibniz-Institute of Freshwater Ecology and Inland Fisheries Berlin (Germany), 2019 
+* Dr. rer. nat. (PhD), Technische Universität Berlin / Leibniz-Institute of Freshwater Ecology and Inland Fisheries Berlin (Germany), 2019 
   * Thesis: "Adapting the water management to mitigate the impact of multiple stressors on an urban lake: Case study Lake Tegel, Germany"
 * M.Sc. in Hydrology, Technische Universität Dresden (Germany), 2015
   * Thesis: "Optimal management of arid coastal aquifers with the use of density dependent groundwater flow modeling and artificial neural networks"
