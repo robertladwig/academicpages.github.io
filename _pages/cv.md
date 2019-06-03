@@ -19,6 +19,10 @@ Professional Appointments
   
 Experience
 ======
+* July 2015 - February 2019: Research Assistant 
+  * Leibniz-Institute of Freshwater Ecology and Inland Fisheries, Berlin, Germany
+  * Field sampling, laboratory analysis, numerical modeling, statistical analysis
+  * [Working group of Dr. Michael Hupfer](https://www.igb-berlin.de/en/hupfer)
 * September - November 2017: Special Research Student
   * Saitama University, Japan
   * Application of bubble plume mixing technique to improve pond water quality & ecological modeling of phytoplankton blooms
@@ -32,7 +36,7 @@ of written exams in the modules 'Hydrological Models' and 'Climatology and Hydro
 Education
 ======
 * Dr. rer. nat. (PhD), Technische Universität Berlin / Leibniz-Institute of Freshwater Ecology and Inland Fisheries Berlin (Germany), 2019 
-  * Thesis: "Adapting the water management to mitigate the impact of multiple stressors on an urban lake: Case study Lake Tegel, Germany"
+  * Thesis: ["Adapting the water management to mitigate the impact of multiple stressors on an urban lake: Case study Lake Tegel, Germany"](10.14279/depositonce-8289)
 * M.Sc. in Hydrology, Technische Universität Dresden (Germany), 2015
   * Thesis: "Optimal management of arid coastal aquifers with the use of density dependent groundwater flow modeling and artificial neural networks"
 * B.Sc. in BioGeoSciences, Friedrich-Schiller University Jena (Germany), 2012
