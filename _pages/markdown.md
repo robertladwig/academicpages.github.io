@@ -9,9 +9,9 @@ redirect_from:
 
 Robert Ladwig
 
-703 Eagle Heights K
+680 N. Park Street
 
-53705 Madison, WI, USA
+Madison, WI 53706
 
 ladwig.jena ät gmail com
 
