@@ -1,11 +1,10 @@
-
 ---
-permalink: /research/
+layout: research
 title: "Research"
+permalink: /research/
 author_profile: true
-redirect_from: 
-  - /md/
-  - /research.html
+redirect_from:
+  - /research
 ---
 
-TEST
+{% include base_path %}
