@@ -33,5 +33,5 @@ Lake Tegel: impact of heavy rainfall on algae blooms
 ======
 We've calibrated a depth-averaged 2D flow model (TELEMAC2D) to the urban Lake Tegel in Berlin, Germany, to investigate the impact of short-duration heavy rainfall events on the formation of phytoplankton blooms. A novelty for this approach is the application of the water quality module 'Eutro' to a real-world case study.
 
-Here's a map showing the location of some of the lakes I've simulated so far:
+Here's a map showing the locations of some of the lakes I've simulated so far:
 <br/><img src='/images/lakes.jpg'>
