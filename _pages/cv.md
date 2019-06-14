@@ -17,7 +17,7 @@ ABI: improving modeling tools
 ======
 Numerical lake models are essential tools for limnologists and civil engineers. In this project we are developing tools for the GLM-AED2 modeling suite to make it more robust and accessible. The vertical 1D GLM features a flexible Eulerian grid as well as an energy balance approach for mixing. Due to its fair computational needs and low requirements for boundary conditions (bathymetry, initial temperature profile and meteorological conditions), GLM is a great choice for first-time modelers as well as experienced users.
 
-Lake Mendota: longterm lake dynamics
+Lake Mendota: long-term lake dynamics
 ======
 I am using GLM-AED2 to simulate Lake Mendota in Wisconsin, USA. Here, we are using longterm monitoring data to calibrate and validate model variables to fit observed to simulated data. A novel sensitivity and calibration approach supports a reproducible modeling workflow for this project. Especially the analysis of longterm dynamics of dissolved oxygen helps us to identify drivers of future anoxia.
 
