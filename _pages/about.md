@@ -14,7 +14,7 @@ I am a Postdoc at the [Center for Limnology](https://limnology.wisc.edu/) at the
 
 I did my PhD work at the [Leibniz-Institute of Freshwater Ecology and Inland Fisheries (IGB)](https://www.igb-berlin.de/en) in Berlin, Germany, supervised by [Dr. Michael Hupfer](https://www.igb-berlin.de/en/hupfer) and [Prof. Dr.-Ing. Reinhard Hinkelmann](https://www.wahyd.tu-berlin.de/menue/about_us/team/head/prof_dr-ing_reinhard_hinkelmann/). Here, I studied the impact of multiple stressors on urban lakes using field sampling, monitoring and numerical modeling (e.g. GLM-AED2, FLake, open TELEMAC-MASCARET). 
 
-[Download my complete CV (April 2019) here](https://robertladwig.github.io/pdf/CV_Ladwig.pdf)
+[Download my complete CV (June 2019) here](https://robertladwig.github.io/pdf/CV_Ladwig.pdf)
 
 <br/><img src='/images/sketch.png'>
 
