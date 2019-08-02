@@ -11,7 +11,7 @@ redirect_from:
 
 A focus of my work is to produce a fast and reproducible workflow for the application of numerical models by using sensitivity analyses, automatic calibration techniques, multivariate statistical methods for post-processing and pleasant visualization of data. I firmly believe that aquatic ecosystem models are important tools for teaching physical as well as ecological in-lake processes, are crucial to check hypotheses obtained by field data and should be made accessible to every limnologist, the stakeholders as well as the public regardless of computational power and computer science education.
 
-Here's an animation showing how a vertical, layered model is changing its structure to replicate hourly thermal dynamics:
+Here's an animation showing how the layer structure of a vertical hydrodynamic model is working. The thickness of each layer is either expanding or shrinking in dependence of hourly thermal dynamics. Especially surface cooling events in the evening and at night are causing convective fluxes that further mix the surface layer. Such animations can help in explaining physical processes and fundamentals of numerical models.
 
 <br/><img src='/images/glm_layer.gif'>
 
