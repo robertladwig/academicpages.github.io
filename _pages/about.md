@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, my name is Robert. I am a hydrologist with a keen interest in computational limnology.
+Welcome, my name is Robert. I am a hydrologist with a keen interest in computational limnology.
 
 I am a Postdoc at the [Center for Limnology](https://limnology.wisc.edu/) at the University of Wisconsin-Madison advised by [Hilary Dugan](https://dugan.limnology.wisc.edu/) and [Paul Hanson](http://hanson.limnology.wisc.edu) working on simulating aquatic ecosystems using [GLM-AED2](http://aed.see.uwa.edu.au/research/models/GLM/). My scientific work focuses on the interactions between lake ecosystems and their external drivers (atmosphere, catchment, agriculture, water management) as well as how these processes can be numerically simulated.
 
