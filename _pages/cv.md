@@ -13,7 +13,7 @@ A focus of my work is to produce a fast and reproducible workflow for the applic
 
 Here's an animation showing how the layer structure of a vertical hydrodynamic model is working. The thickness of each layer is either expanding or shrinking in dependence of hourly thermal dynamics. Especially surface cooling events in the evening and at night are causing convective fluxes that further mix the surface layer. Such animations can help in explaining physical processes and fundamentals of numerical models.
 
-<br/><img src='/images/glm_layer.gif'>
+<br/><img src='/images/glm_layerstruc.gif'>
 
 The following paragraphs give you an overview of some of my current research projects and projects I am involved in.
 
