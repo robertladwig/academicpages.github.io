@@ -9,13 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-A focus of my work is to produce a fast and reproducible workflow for the application of numerical models by using sensitivity analyses, automatic calibration techniques, multivariate statistical methods for post-processing and pleasant visualization of data. I firmly believe that aquatic ecosystem models are important tools for teaching physical as well as ecological in-lake processes, are crucial to check hypotheses obtained by field data and should be made accessible to every limnologist, the stakeholders as well as the public regardless of computational power and computer science education.
+A focus of my work is to produce a fast and reproducible workflow for the application of numerical models consisting of sensitivity analyses, automatic calibration techniques, multivariate statistical methods for post-processing and output visualization that is easy to understand. I firmly believe that aquatic ecosystem models are important tools for teaching physical as well as ecological in-lake processes, are crucial to check hypotheses obtained by field data and should be made accessible to every limnologist, the stakeholders as well as the public regardless of computational power and computer science education.
 
-Here's an animation showing how the layer structure of a vertical hydrodynamic model is working. The thickness of each layer is either expanding or shrinking in dependence of hourly thermal dynamics. Especially surface cooling events in the evening and at night are causing convective fluxes that further mix the surface layer. Such animations can help in explaining physical processes and fundamentals of numerical models.
+Here's an animation showing how a flexible Lagrangian layer structure of a vertical hydrodynamic model ([GLM](https://aed.see.uwa.edu.au/research/models/GLM/)) is working. The thickness of each layer is either expanding or shrinking in dependence of its density which further depends on the mixing dynamics. Especially surface cooling events in the evening and at night are causing convective fluxes that deepen the surface mixed layer.
 
 <br/><img src='/images/glm_layerstruc.gif'>
 
-The following paragraphs give you an overview of some of my current research projects and projects I am involved in.
+The following paragraphs give you an overview of selected current research projects of mine and projects that I am involved in.
 
 ABI: improving modeling tools
 ======
@@ -23,15 +23,15 @@ Numerical lake models are essential tools for limnologists and civil engineers. 
 
 Lake Mendota: long-term lake dynamics
 ======
-I am using GLM-AED2 to simulate Lake Mendota in Wisconsin, USA. Here, we are using longterm monitoring data to calibrate and validate model variables to fit observed to simulated data. A novel sensitivity and calibration approach supports a reproducible modeling workflow for this project. Especially the analysis of longterm dynamics of dissolved oxygen helps us to identify drivers of future anoxia.
+I am using GLM-AED2 to simulate Lake Mendota in Wisconsin, USA. Here, we are using long-term monitoring data to calibrate and validate model variables to fit observed to simulated data. A novel sensitivity and calibration approach supports a reproducible modeling workflow for this project. Especially the analysis of long-term dynamics of dissolved oxygen helps us to identify drivers of future anoxia.
 
 CNH: human-catchment-lake interactions
 ======
-To really understand lake ecosystems, one also has to understand its couplings to the catchment, economic drivers and the human society. In this project a fully coupled model will be established that will help answering complex economic as well as biogeochemical questions.
+To understand lake ecosystems, one also has to understand its couplings to the catchment, economic drivers and society. In this project, a fully coupled lake model is used to answer complex economic as well as biogeochemical questions.
 
 ISIMIP: impact of climate change on lakes worldwide
 ======
-In this project we are using GLM to project the impact of climate change on lake thermal characteristics worldwide. Here, we are simulating more than 60 different lakes over long periods of time. It's the scientific consensus that lakes act as sentinels to climate change and will experience drastic ecological shifts.
+In this project we are using GLM and GOTM to project the impact of climate change on lake thermal characteristics worldwide. Here, we are simulating more than 60 different lakes over long periods of time (centuries). It's the scientific consensus that lakes act as sentinels to climate change and will experience drastic ecological shifts.
 
 Lake Tegel: impact of heavy rainfall on algae blooms
 ======
