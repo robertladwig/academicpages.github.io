@@ -6,6 +6,9 @@ main:
   - title: "Research"
     url: /cv/
     
+  - title: "Tutorials"
+    url: /diy/
+    
   - title: "Impressum"
     url: /markdown/
 
