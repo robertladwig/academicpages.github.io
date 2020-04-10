@@ -34,15 +34,14 @@ How can we get the vertical diffusivity? The goal is to get a dynamic respresent
 <a href="https://www.codecogs.com/eqnedit.php?latex=E&space;=&space;\frac{E_0}{(1&plus;\alpha&space;{R_i})^{3/2}}" target="_blank"><img src="https://latex.codecogs.com/svg.latex?E&space;=&space;\frac{E_0}{(1&plus;\alpha&space;{Ri})^{3/2}}" title="E = \frac{E_0}{(1+\alpha {Ri})^{3/2}}" /></a>
 
 We can rewrite the diffusion coefficient at neutral stability to depend on the ratio of wind shear stress to water density:
-
-
+<a href="https://www.codecogs.com/eqnedit.php?latex=E_0&space;=&space;c&space;\sqrt{\frac{{\tau}_{shear}}{{\rho}_{water}}}" target="_blank"><img src="https://latex.codecogs.com/svg.latex?E_0&space;=&space;c&space;\sqrt{\frac{{\tau}_{shear}}{{\rho}_{water}}}" title="E_0 = c \sqrt{\frac{{\tau}_{shear}}{{\rho}_{water}}}" /></a>
 
 Here, the wind shear stress depends on the density of the air, a drag coefficient and the measured wind speed:
 <a href="https://www.codecogs.com/eqnedit.php?latex={\tau}_{shear}&space;=&space;{\rho}_{air}&space;C_d&space;{{U}_w}^2" target="_blank"><img src="https://latex.codecogs.com/svg.latex?{\tau}_{shear}&space;=&space;{\rho}_{air}&space;C_d&space;{{U}_w}^2" title="{\tau}_{shear} = {\rho}_{air} C_d {{U}_w}^2" /></a>
 
 Next is the Richardson number which generally describes the work of buoyancy against wind-induced turbulence. If it is below 1/4 the system will experience shear-induced turbulence. It can be estimated by:
 
-<a href="https://www.codecogs.com/eqnedit.php?latex=Ri=\frac{-&space;\frac{g}{\rho}&space;\frac{d\rho}{dz}}{\sqrt{\frac{{\tau}_{shear}&space;}{{\rho}_{water}}}H}" target="_blank"><img src="https://latex.codecogs.com/svg.latex?Ri=\frac{-&space;\frac{g}{\rho}&space;\frac{d\rho}{dz}}{\sqrt{\frac{{\tau}_{shear}&space;}{{\rho}_{water}}}H}" title="Ri=\frac{- \frac{g}{\rho} \frac{d\rho}{dz}}{\sqrt{\frac{{\tau}_{shear} }{{\rho}_{water}}}H}" /></a>
+<a href="https://www.codecogs.com/eqnedit.php?latex=Ri&space;=&space;\frac{-\frac{g}{\rho}\frac{d\rho}{dz}}{\sqrt{\frac{{\tau}_{shear}}{{\rho}_{water}}}{H}^{-2}}" target="_blank"><img src="https://latex.codecogs.com/svg.latex?Ri&space;=&space;\frac{-\frac{g}{\rho}\frac{d\rho}{dz}}{\sqrt{\frac{{\tau}_{shear}}{{\rho}_{water}}}{H}^{-2}}" title="Ri = \frac{-\frac{g}{\rho}\frac{d\rho}{dz}}{\sqrt{\frac{{\tau}_{shear}}{{\rho}_{water}}}{H}^{-2}}" /></a>
 
 where H is the thickness over which the wind can act on the lake (assumed here to be the thermocline depth). Please note that <a href="https://www.codecogs.com/eqnedit.php?latex=\alpha" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\alpha" title="\alpha" /></a> and c are constants.
 
