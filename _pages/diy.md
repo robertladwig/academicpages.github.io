@@ -41,6 +41,7 @@ Here, the wind shear stress depends on the density of the air, a drag coefficien
 
 Next is the Richardson number which generally describes the work of buoyancy against wind-induced turbulence. If it is below 1/4 the system will experience shear-induced turbulence. It can be estimated by:
 
+<a href="https://www.codecogs.com/eqnedit.php?latex=Ri&space;=&space;\frac{-\frac{g}{\rho}\frac{d\rho}{dz}}{\sqrt{\frac{{\tau}_{shear}}{&space;{\rho}_{water}}}{H}^{-2}}" target="_blank"><img src="https://latex.codecogs.com/svg.latex?Ri&space;=&space;\frac{-\frac{g}{\rho}\frac{d\rho}{dz}}{\sqrt{\frac{{\tau}_{shear}}{&space;{\rho}_{water}}}{H}^{-2}}" title="Ri = \frac{-\frac{g}{\rho}\frac{d\rho}{dz}}{\sqrt{\frac{{\tau}_{shear}}{ {\rho}_{water}}}{H}^{-2}}" /></a>
 
 
 where H is the thickness over which the wind can act on the lake (assumed here to be the thermocline depth). Please note that <a href="https://www.codecogs.com/eqnedit.php?latex=\alpha" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\alpha" title="\alpha" /></a> and c are constants.
