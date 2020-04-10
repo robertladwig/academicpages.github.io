@@ -35,7 +35,7 @@ How can we get the vertical diffusivity? The goal is to get a dynamic respresent
 
 We can rewrite the diffusion coefficient at neutral stability to depend on the ratio of wind shear stress to water density:
 
-<a href="https://www.codecogs.com/eqnedit.php?latex=E_0&space;=&space;c&space;\frac{{\tau}_{shear}&space;}{{\rho&space;}_{water}}" target="_blank"><img src="https://latex.codecogs.com/svg.latex?E_0&space;=&space;c&space;\frac{{\tau}_{shear}&space;}{{\rho&space;}_{water}}" title="E_0 = c \frac{{\tau}_{shear} }{{\rho }_{water}}" /></a>
+<a href="https://www.codecogs.com/eqnedit.php?latex=c&space;\sqrt{\frac{{\tau&space;}_s}{{\rho&space;}_{water}}}" target="_blank"><img src="https://latex.codecogs.com/svg.latex?c&space;\sqrt{\frac{{\tau&space;}_s}{{\rho&space;}_{water}}}" title="c \sqrt{\frac{{\tau }_s}{{\rho }_{water}}}" /></a>
 
 Next is the Richardson number which generally describes the work of buoyancy against wind-induced turbulence. If it is below 1/4 the system will experience shear-induced turbulence. It can be estimated by:
 
