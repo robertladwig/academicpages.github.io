@@ -35,7 +35,7 @@ How can we get the vertical diffusivity? The goal is to get a dynamic respresent
 
 We can rewrite the diffusion coefficient at neutral stability to depend on the ratio of wind shear stress to water density:
 
-<a href="https://www.codecogs.com/eqnedit.php?latex=E_0&space;=&space;c&space;\sqrt{\frac{{\tau}_{shear}}{{\rho}_{water}}}" target="_blank"><img src="https://latex.codecogs.com/svg.latex?E_0&space;=&space;c&space;\sqrt{\frac{{\tau}_{shear}}{{\rho}_{water}}}" title="E_0 = c \sqrt{\frac{{\tau}_{shear}}{{\rho}_{water}}}" /></a>
+
 
 Here, the wind shear stress depends on the density of the air, a drag coefficient and the measured wind speed:
 <a href="https://www.codecogs.com/eqnedit.php?latex={\tau}_{shear}&space;=&space;{\rho}_{air}&space;C_d&space;{{U}_w}^2" target="_blank"><img src="https://latex.codecogs.com/svg.latex?{\tau}_{shear}&space;=&space;{\rho}_{air}&space;C_d&space;{{U}_w}^2" title="{\tau}_{shear} = {\rho}_{air} C_d {{U}_w}^2" /></a>
