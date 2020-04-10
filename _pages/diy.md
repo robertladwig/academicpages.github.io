@@ -37,7 +37,7 @@ We can rewrite the diffusion coefficient at neutral stability to depend on the r
 
 
 Here, the wind shear stress depends on the density of the air, a drag coefficient and the measured wind speed:
-<a href="https://www.codecogs.com/eqnedit.php?latex={\tau}_{shear}&space;=&space;{\rho}_{air}&space;C_d&space;{u_{wind}}^2" target="_blank"><img src="https://latex.codecogs.com/svg.latex?{\tau}_{shear}&space;=&space;{\rho}_{air}&space;C_d&space;{{U}_w}^2" title="{\tau}_{shear} = {\rho}_{air} C_d {u_{wind}}^2" /></a>
+<a href="https://www.codecogs.com/eqnedit.php?latex={\tau}_{shear}&space;=&space;{\rho}_{air}&space;C_d&space;{u_{wind}}^2" target="_blank"><img src="https://latex.codecogs.com/svg.latex?{\tau}_{shear}&space;=&space;{\rho}_{air}&space;C_d&space;{u_{wind}}^2" title="{\tau}_{shear} = {\rho}_{air} C_d {u_{wind}}^2" /></a>
 
 
 Next is the Richardson number which generally describes the work of buoyancy against wind-induced turbulence. If it is below 1/4 the system will experience shear-induced turbulence. It can be estimated by:
