@@ -34,7 +34,7 @@ How can we get the vertical diffusivity? The goal is to get a dynamic respresent
 <a href="https://www.codecogs.com/eqnedit.php?latex=E&space;=&space;\frac{E_0}{(1&plus;\alpha&space;{R_i})^{3/2}}" target="_blank"><img src="https://latex.codecogs.com/svg.latex?E&space;=&space;\frac{E_0}{(1&plus;\alpha&space;{Ri})^{3/2}}" title="E = \frac{E_0}{(1+\alpha {Ri})^{3/2}}" /></a>
 
 We can rewrite the diffusion coefficient at neutral stability to depend on the ratio of wind shear stress to water density:
-<a href="https://www.codecogs.com/eqnedit.php?latex=E_0&space;=&space;c&space;\sqrt{\frac{\tau}{{\rho}_{water}}}" target="_blank"><img src="https://latex.codecogs.com/svg.latex?E_0&space;=&space;c&space;\sqrt{\frac{\tau}{{\rho}_{water}}}" title="E_0 = c \sqrt{\frac{\tau}{{\rho}_{water}}}" /></a>
+
 
 Here, the wind shear stress depends on the density of the air, a drag coefficient and the measured wind speed:
 <a href="https://www.codecogs.com/eqnedit.php?latex={\tau}&space;=&space;{\rho}_{air}&space;C_d&space;{u_{wind}}^2" target="_blank"><img src="https://latex.codecogs.com/svg.latex?{\tau}}&space;=&space;{\rho}_{air}&space;C_d&space;{u_{wind}}^2" title="{\tau} = {\rho}_{air} C_d {u_{wind}}^2" /></a>
