@@ -82,7 +82,6 @@ library(tidyverse)
 library(RColorBrewer)
 library(zoo)
 library(deSolve)
-library(LakeMetabolizer)
 ```
 Let us first state the important parameters, load the data and give the model some initial conditions:
 ```
