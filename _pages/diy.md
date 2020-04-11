@@ -291,5 +291,11 @@ g5 <- grid.arrange(g1, g2, g3, g4, ncol =1);g5
 
 And the results look surprisingly reasonable. The lake warms up during summer, cools down in winter, has high Richardson numbers during summer, and the heat fluxes have nice seasonal dynamics. Not too bad.
 
+Let's compare how well our model compares to reality. In the next plot red symbolizes the surface layer and blue the bottom layer. Also solid lines are model results and dashed lines are observed data (measured at 0.9 and 42 m, respectively).
+
+<br/><img src='/images/2L_compare.png'>
+
+Okaaay, it's doing some parts well, some parts bad. But keep in mind that the model is not calibrated yet (we fixed several parameters), doesn't include any inflow dynamics and vertical mixing is vastly simplified.
+
 ## Final thoughts
 I hope this tutorial was helpful in explaining how a two-layer lake model can be coded in R. Of course the code could be more efficient, faster and better looking, but I wanted to give you a short walkthrough on how to do it once you have all important equations. Mathematical modeling can sound scary at the beginning, but once your code is working all pain will be forgotten.
