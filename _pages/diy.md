@@ -62,7 +62,7 @@ To approximate the solutions of our ordinary differential equations over time, w
 for which we have to solve the coefficients k in dependence of a step-size h>0. Luckily, these numerical methods are included in lots of R packages, for instance [deSolve](https://cran.r-project.org/web/packages/deSolve/index.html).
 
 # Applying the model
-We will try the formulated model on [Lough Feeagh](https://gleon.org/lakes/lough-feeagh) in Ireland, which has a maximum depth of 46.8 m. Looks beautiful, right (credits to Tadhg Moore):
+We will try the formulated model on [Lough Feeagh](https://gleon.org/lakes/lough-feeagh) in Ireland, which has a maximum depth of 46.8 m. Looks beautiful, right (credits to Mikkel René Andersen):
 
 <br/><img src='/images/MRA_0610.JPG'>
 
