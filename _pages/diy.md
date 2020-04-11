@@ -12,7 +12,7 @@ redirect_from:
 # Writing a two-layer thermodynamic model in R
 updated: 04-10-2020
 ## Introduction
-Welcome! In this tutorial I want to describe and show how you can write and run a lake model in R. When I began my PhD studies, I had a hard time wrapping my head around all the equations and coding techniques. Therefore, I want to provide a walkthrough here. Please write me a mail if you find errors or typos. Hope you enjoy it.
+Welcome! In this tutorial I want to describe and show how you can write and run a lake model in R. When I began my PhD studies, I had a hard time wrapping my head around all the equations and coding techniques. Therefore, I want to provide a walkthrough here. Please write me a mail if you find errors or typos (especially if you find errors!). Hope you enjoy it.
 
 A great type of lake models just assumes that the lake is divided into two volume layers: the epilimnion (surface mixed layer) and the hypolimnion (bottom stagnant layer). Both layers are divided by a metalimnion (layer with a steep density gradient). This model assumption generally holds up for lakes that stratify during summer. The entrainment over the metalimnion (or thermocline) depends on a vertical diffusion coefficient, which is further simplified as a function of the diffusion at neutral stability to the Richardson number. This last assumption helps the model in dynamically changing from mixed to stratified condtions.
 
@@ -70,7 +70,8 @@ To run the model, first we need [meteorological data](https://www.met.ie/climate
 
 We also need additional data about the lake which all should be in cm, for instance the volume of the epilimnion (approx. 2.8 10^13 cm3), the volume of the hypolimnion (approx. 3.4 10^13 cm3), the surface area (3.9 10^10 cm2), the thermocline area (2.6 10^10 cm2), and the thickness of the metalimnion (let us assume it to be about 300 cm). We will neglect any inflows and outflows for this example (this simplifies our model even more, awesome!). Next we have to estimate the depth of the thermocline. For this we will use a regression from Hanna M. (1990): Evaluation of Models predicting Mixing Depth. Can. J. Fish. Aquat. Sci. 47: 940-947:
 <a href="https://www.codecogs.com/eqnedit.php?latex=z_{therm}&space;=&space;10^{0.336&space;log10(max(L,W))-0.245}" target="_blank"><img src="https://latex.codecogs.com/svg.latex?z_{therm}&space;=&space;10^{0.336&space;log10(max(L,W))-0.245}" title="z_{therm} = 10^{0.336 log10(max(L,W))-0.245}" /></a>
-This means that the thermocline depth depends on the maximum distance over our lake (either length or width).
+
+This means that the thermocline depth depends on the maximum distance over our lake (either length or width). We need this depth to estimate our volumes (epilimnion and hypolimnion) and the respective areas (thermocline area) from bathymetry data if we don't know it apriori.
 
 Now it's the perfect time to load our libraries:
 ```
@@ -109,8 +110,9 @@ c1 <- 0.47 # Bowen's coefficient
 a <- 7 # constant
 c <- 9e4 # empirical constant
 g <- 9.81  # gravity (m/s2)
+thermDep <- simple_therm_depth
 
-parameters <- c(Ve, Vh, At, Ht, As, Tin, Q, Rl, Acoeff, sigma, eps, rho, cp, c1, a, c, g)
+parameters <- c(Ve, Vh, At, Ht, As, Tin, Q, Rl, Acoeff, sigma, eps, rho, cp, c1, a, c, g, thermDep)
 
 colnames(bound) <- c('Day','Jsw','Tair','Dew','vW')
 
@@ -146,11 +148,7 @@ run_model <- function(bc, params, ini, times){
   a <- params[15]
   c <- params[16]
   g <- params[17]
-  NEP <- params[18]
-  Fsed<- params[19]
-  MINERAL <- params[20]
-  Ased <- params[21]
-  diffred <- params[22]
+  thermDep <- params[18]
   
   TwoLayer <- function(t, y, parms){
     eair <- (4.596 * exp((17.27 * Dew(t)) / (237.3 + Dew(t)))) # air vapor pressure
@@ -164,7 +162,7 @@ run_model <- function(bc, params, ini, times){
     rho_h <- calc_dens(y[2])/1000
     w0 <- sqrt(shear/rho_e) 
     E0  <- c * w0
-    Ri <- ((g/rho)*(abs(rho_e-rho_h)/10))/(w0/(10)^2)
+    Ri <- ((g/rho)*(abs(rho_e-rho_h)/10))/(w0/(thermDep)^2)
     if (rho_e > rho_h){
       dV = 100
     } else {
