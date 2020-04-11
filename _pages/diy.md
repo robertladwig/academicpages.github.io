@@ -231,7 +231,6 @@ out <- run_model(bc = boundary, params = parameters, ini = yini, times = times)
 ```
 If you don't get any warning, that's good! Now we can look at the model output which is stored in the variable "out":
 ```
-
 result <- data.frame('Time' = out[,1],
                      'WT_epi' = out[,2], 'WT_hyp' = out[,3])
 g1 <- ggplot(result) +
