@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 # Writing a two-layer thermodynamic model in R
-04-09-2020
+updated: 04-10-2020
 ## Introduction
 Welcome, in this paragraph I want to briefly describe and show how you can write and run a lake model in R. When I began my PhD studies, I had a hard time wrapping my head around all the equations and coding techniques. Therefore, I want to provide a walkthrough here. Please write me a mail if you find errors or typos. Hope you enjoy it.
 
