@@ -90,7 +90,8 @@ library(deSolve)
 Let us first state the important parameters, load the data and give the model some initial conditions:
 ```
 # load in the boundary data
-bound <-read_delim(paste0('/home/robert/Projects/DSI/thermod/feeagh/meteo.txt'), delim = '\t')
+urlfile = "https://raw.githubusercontent.com/robertladwig/robertladwig.github.io/master/files/meteo.txt"
+bound <- read_tsv(url(urlfile))
 
 # approximate the thermocline depth
 therm_depth <- 10 ^ (0.336 * log10(3678) - 0.245) 
