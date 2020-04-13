@@ -56,6 +56,10 @@ We'll set up each heat flux term now. The easiest one is the solar shortwave rad
 We will assume that the inflow equals the outflow and is constant. Also, the inflow water temperature will be constant.
 For initial conditions and the sake of simplicity, let's put the initial water temperature of both layers to 3 °C.
 
+Our model is now looking like this:
+
+<br/><img src='/images/2dmodel-schematic-01.png'>
+
 ## How to solve the model
 To approximate the solutions of our ordinary differential equations over time, we will use an iterative method called the fourth-order Runge-Kutta method, which has the form:
 <a href="https://www.codecogs.com/eqnedit.php?latex=c_{i&plus;1}=&space;c_i&space;&plus;&space;[\frac{1}{6}(k_1&plus;2k_2&plus;k_3&plus;k_4)]h" target="_blank"><img src="https://latex.codecogs.com/svg.latex?c_{i&plus;1}=&space;c_i&space;&plus;&space;[\frac{1}{6}(k_1&plus;2k_2&plus;k_3&plus;k_4)]h" title="c_{i+1}= c_i + [\frac{1}{6}(k_1+2k_2+k_3+k_4)]h" /></a>
