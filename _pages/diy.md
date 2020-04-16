@@ -131,7 +131,7 @@ times <- seq(from = 1, to = max(boundary$Day), by = 1)
 # initial water temperatures
 yini <- c(3,3) 
 ```
-Great, now we write down the model itself as a function (which you can also find [here](https://github.com/robertladwig/thermod):
+Great, now we write down the model itself as a function (which you can also find [here](https://github.com/robertladwig/thermod)):
 ```
 run_model <- function(bc, params, ini, times){
   
