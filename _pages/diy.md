@@ -300,7 +300,7 @@ Let's compare how well our model compares to reality. In the next plot red symbo
 
 <br/><img src='/images/2L_compare.png'>
 
-Okaaay, it's doing some parts well, some parts bad. But keep in mind that the model is not calibrated yet (we fixed several parameters), doesn't include any inflow dynamics and vertical mixing is vastly simplified.
+Okaaay, it's doing some parts well, some parts bad. But keep in mind that the model is not calibrated yet (we assumed several parameters), doesn't include any inflow dynamics, vertical mixing is vastly simplified, and the observed data wasn't vertically averaged.
 
 ## Final thoughts
 I hope this tutorial was helpful in explaining how a two-layer lake model can be coded in R. Of course, the code could be more efficient, faster and better looking, but I wanted to give you a short walkthrough on how to do it once you have all the important equations. Mathematical modeling can sound scary at the beginning, but once your code is working all pain will be forgotten.
