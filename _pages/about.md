@@ -16,6 +16,7 @@ My current research interests in a nutshell:
 - developing software tools for running and post-processing numerical models 
 - modeling oxygen depletion dynamics in lakes (anoxia, metalimnetic oxygen minimum)
 - physics-guided machine learning to simulate lakes on the continental scale
+- investigating the impact of climate change on future lake mixing dynamics
 
 I did my PhD work at the [Leibniz-Institute of Freshwater Ecology and Inland Fisheries (IGB)](https://www.igb-berlin.de/en) in Berlin, Germany, supervised by [Michael Hupfer](https://www.igb-berlin.de/en/hupfer) and [Reinhard Hinkelmann](https://www.wahyd.tu-berlin.de/menue/about_us/team/head/prof_dr-ing_reinhard_hinkelmann/). Here, I studied the impact of multiple stressors on urban lakes using field sampling, monitoring and numerical modeling (e.g. vertical 1D GLM-AED2, vertical 1D FLake, depth-averaged 2D open TELEMAC-MASCARET). 
 
