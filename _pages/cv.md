@@ -21,6 +21,15 @@ ABI: improving modeling tools
 ======
 Numerical lake models are essential tools for limnologists and civil engineers. In this project we are developing tools for the GLM-AED2 modeling suite to make it more robust and accessible. The vertical 1D GLM features a flexible Eulerian grid as well as an energy balance approach for mixing. Due to its fair computational needs and low requirements for boundary conditions (bathymetry, initial temperature profile and meteorological conditions), GLM is a great choice for first-time modelers as well as experienced users.
 
+KGML: knowledge guided machine learning
+======
+I am part of an [interdisciplinary team](https://sites.google.com/umn.edu/kgml/home) that tackles complex research questions using physics-guided machine learning. In this regard I am currently simulating oxygen depletion dyanmics of lakes in the US Midwest by using a combination of simple numerical models and physics-guided machine learning approaches. A simple oxygen depletion model consisting of a two-layer approach acts as the input for a recurrent neural network. 
+
+
+ISIMIP: impact of climate change on lakes worldwide
+======
+In this [project](https://www.isimip.org/) we are using GLM and GOTM to project the impact of climate change on lake thermal characteristics worldwide. Here, we are simulating more than 60 different lakes over long periods of time (centuries). It's the scientific consensus that lakes act as sentinels to climate change and will experience drastic ecological shifts.
+
 Lake Mendota: long-term lake dynamics
 ======
 I am using GLM-AED2 to simulate Lake Mendota in Wisconsin, USA. Here, we are using long-term monitoring data to calibrate and validate model variables to fit observed to simulated data. A novel sensitivity and calibration approach supports a reproducible modeling workflow for this project. Especially the analysis of long-term dynamics of dissolved oxygen helps us to identify drivers of future anoxia.
@@ -28,10 +37,6 @@ I am using GLM-AED2 to simulate Lake Mendota in Wisconsin, USA. Here, we are usi
 CNH: human-catchment-lake interactions
 ======
 To understand lake ecosystems, one also has to understand its couplings to the catchment, economic drivers and society. In this project, a fully coupled lake model is used to answer complex economic as well as biogeochemical questions.
-
-ISIMIP: impact of climate change on lakes worldwide
-======
-In this project we are using GLM and GOTM to project the impact of climate change on lake thermal characteristics worldwide. Here, we are simulating more than 60 different lakes over long periods of time (centuries). It's the scientific consensus that lakes act as sentinels to climate change and will experience drastic ecological shifts.
 
 Lake Tegel: impact of heavy rainfall on algae blooms
 ======
