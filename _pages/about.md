@@ -26,7 +26,7 @@ I did my PhD work at the [Leibniz-Institute of Freshwater Ecology and Inland Fis
 
 [Download my complete CV (April 2020) here](https://robertladwig.github.io/pdf/CV_Ladwig.pdf)
 
-<br/><img src='/images/mywork-schematic-01.png'>
+<br/><img src='/images/computationallimnology.png'>
 
 Privacy
 ======
