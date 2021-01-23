@@ -6,5 +6,5 @@ excerpt: 'In this study, we used a vertical one-dimensional hydrodynamic-ecologi
 date: 2021-01-20
 venue: 'Hydrology and Earth System Sciences'
 paperurl: 'https://doi.org/10.5194/hess-2020-349'
-citation: 'Ladwig, R., Hanson, P. C., Dugan, H. A., Carey, C. C., Zhang, Y., Shu, L., Duffy, C. J., and Cobourn, K. M.: Lake thermal structure drives inter-annual variability in summer anoxia dynamics in a eutrophic lake over 37 years, Hydrol. Earth Syst. Sci. Discuss. [preprint], https://doi.org/10.5194/hess-2020-349, 2020
+citation: 'Ladwig, R., Hanson, P. C., Dugan, H. A., Carey, C. C., Zhang, Y., Shu, L., Duffy, C. J., and Cobourn, K. M.: Lake thermal structure drives inter-annual variability in summer anoxia dynamics in a eutrophic lake over 37 years, Hydrol. Earth Syst. Sci. Discuss. [preprint], https://doi.org/10.5194/hess-2020-349, 2021
 ---
