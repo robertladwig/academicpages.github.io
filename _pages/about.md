@@ -14,12 +14,12 @@ I am a Postdoc at the [Center for Limnology](https://limnology.wisc.edu/) at the
 
 My current research interests in a nutshell:
 - improving aquatic ecosystem models:
-  - open source scientific software for running and post-processing numerical models (e.g., [LakeEnsemblR](https://github.com/aemon-j/LakeEnsemblR), [glmtools](https://github.com/USGS-R/glmtools))
+  - open source scientific software for running and post-processing numerical models (e.g., [LakeEnsemblR](https://github.com/aemon-j/LakeEnsemblR)/[paper](https://eartharxiv.org/repository/view/1960/), [glmtools](https://github.com/USGS-R/glmtools))
   - [knowledge-guided machine learning](https://sites.google.com/umn.edu/kgml/home) to simulate in-lake oxygen dynamics on a large scale
   - integrating stochastic processes into deterministic models, e.g. to improve simulations of phytoplankton bloom dynamics
 - applying aquatic ecosystem models:
-  - numerical modeling of long-term dissolved oxygen depletion dynamics in lakes (anoxia, metalimnetic oxygen minimum)
-  - investigating the impact of climate change on future lake mixing dynamics ([Lake Tegel](https://www.mdpi.com/2073-4441/10/2/186))
+  - numerical modeling of long-term dissolved oxygen depletion dynamics in lakes (anoxia in [Lake Mendota](https://hess.copernicus.org/preprints/hess-2020-349/), metalimnetic oxygen minimum)
+  - investigating the impact of climate change on future lake mixing dynamics ([Lake Tegel](https://www.mdpi.com/2073-4441/10/2/186), [Itupararanga reservoir](https://www.sciencedirect.com/science/article/pii/S0048969720382747?via%3Dihub))
   - researching how we can improve the management of urban water resources ([PhD thesis](https://depositonce.tu-berlin.de/handle/11303/9203))
 
 I did my PhD work at the [Leibniz-Institute of Freshwater Ecology and Inland Fisheries (IGB)](https://www.igb-berlin.de/en) in Berlin, Germany, supervised by [Michael Hupfer](https://www.igb-berlin.de/en/hupfer) and [Reinhard Hinkelmann](https://www.wahyd.tu-berlin.de/menue/about_us/team/head/prof_dr-ing_reinhard_hinkelmann/). Here, I studied the impact of multiple stressors on urban lakes using field sampling, monitoring and numerical modeling (e.g. vertical 1D GLM-AED2, vertical 1D FLake, depth-averaged 2D open TELEMAC-MASCARET). 
