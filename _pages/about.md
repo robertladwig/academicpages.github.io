@@ -27,11 +27,11 @@ I did my PhD work at the [Leibniz-Institute of Freshwater Ecology and Inland Fis
 [Download my complete CV (December 2020) here](https://robertladwig.github.io/pdf/CV_Ladwig.pdf)
 
 Here is an overview of some of my software projects:
+
 <a href="https://github.com/robertladwig/LakeEnsemblR"><img src="/images/logo.png" align="left" height="220" width="220" ></a>
 <a href="https://github.com/robertladwig/thermod"><img src="/images/thermod.png" align="center" height="220" width="220" ></a>
 <a href="https://github.com/LimnoDataScience/odem.data"><img src="/images/odem_logo-01.png" align="right" height="220" width="220" ></a>
 
-<br/><img src='/images/computationallimnology.png'>
 
 Privacy
 ======
