@@ -24,7 +24,7 @@ My current research interests in a nutshell:
 
 I did my PhD work at the [Leibniz-Institute of Freshwater Ecology and Inland Fisheries (IGB)](https://www.igb-berlin.de/en) in Berlin, Germany, supervised by [Michael Hupfer](https://www.igb-berlin.de/en/hupfer) and [Reinhard Hinkelmann](https://www.wahyd.tu-berlin.de/menue/about_us/team/head/prof_dr-ing_reinhard_hinkelmann/). Here, I studied the impact of multiple stressors on urban lakes using field sampling, monitoring and numerical modeling (e.g. vertical 1D GLM-AED2, vertical 1D FLake, depth-averaged 2D open TELEMAC-MASCARET). 
 
-[Download my complete CV (February 2022) here](https://robertladwig.github.io/pdf/CV_Ladwig.pdf)
+[Download my complete CV (February 2021) here](https://robertladwig.github.io/pdf/CV_Ladwig.pdf)
 
 Here is an overview of some of my software projects:
 
