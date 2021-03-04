@@ -18,7 +18,7 @@ My current research interests in a nutshell:
   - [knowledge-guided machine learning](https://sites.google.com/umn.edu/kgml/home) to simulate in-lake oxygen dynamics on a large scale
   - integrating stochastic processes into deterministic models, e.g. to improve simulations of phytoplankton bloom dynamics
 - applying aquatic ecosystem models:
-  - numerical modeling of long-term dissolved oxygen depletion dynamics in lakes (anoxia in [Lake Mendota](https://hess.copernicus.org/preprints/hess-2020-349/), metalimnetic oxygen minimum)
+  - numerical modeling of long-term dissolved oxygen depletion dynamics in lakes (anoxia in [Lake Mendota](https://doi.org/10.5194/hess-25-1009-2021), metalimnetic oxygen minimum)
   - investigating the impact of climate change on future lake mixing dynamics ([Lake Tegel](https://www.mdpi.com/2073-4441/10/2/186), [Itupararanga reservoir](https://www.sciencedirect.com/science/article/pii/S0048969720382747?via%3Dihub))
   - researching how we can improve the management of urban water resources ([PhD thesis](https://depositonce.tu-berlin.de/handle/11303/9203))
 
