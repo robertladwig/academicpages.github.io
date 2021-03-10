@@ -13,7 +13,7 @@ Welcome, my name is Robert. I am a hydrologist with a keen interest in computati
 I am a Postdoc at the [Center for Limnology](https://limnology.wisc.edu/) at the University of Wisconsin-Madison advised by [Hilary Dugan](https://dugan.limnology.wisc.edu/) and [Paul Hanson](http://hanson.limnology.wisc.edu) working on simulating aquatic ecosystems using [GLM-AED2](http://aed.see.uwa.edu.au/research/models/GLM/). A main focus of my research is to develop tools that ease the application of numerical models for first-time users. I am interested in investigating feedback mechanisms between atmospheric drivers, the catchment and in-lake stratification/mixing dynamics. Recently, a focus of my work is on understanding what is driving dissolved oxygen depletion dynamics in lakes.
 
 My current research interests in a nutshell:
-- lake phenology (i.e., stratification and ice timings and dynamics, lake metabolism, phytoplankton blooms):
+- lake phenology (i.e., stratification and ice dynamics, lake metabolism, phytoplankton blooms):
   - long-term dissolved oxygen depletion dynamics in lakes (anoxia in [Lake Mendota](https://doi.org/10.5194/hess-25-1009-2021), metalimnetic oxygen minimum)
   - investigating the impact of climate change on future lake mixing dynamics ([Lake Tegel](https://www.mdpi.com/2073-4441/10/2/186))
   - integrating stochastic processes into deterministic models, e.g. to improve simulations of phytoplankton bloom dynamics
