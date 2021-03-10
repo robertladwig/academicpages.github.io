@@ -20,7 +20,6 @@ My current research interests in a nutshell:
 - water resources management
   - resevoir management to avoid dead storage due to future drought events ([Itupararanga reservoir](https://www.sciencedirect.com/science/article/pii/S0048969720382747?via%3Dihub))
   - improving the sustainable management of urban water resources ([PhD thesis](https://depositonce.tu-berlin.de/handle/11303/9203))
-  - 
 - aquatic ecosystem modeling:
   - open source scientific software for running and post-processing numerical models (e.g., [LakeEnsemblR](https://github.com/aemon-j/LakeEnsemblR)/[paper](https://eartharxiv.org/repository/view/1960/), [glmtools](https://github.com/USGS-R/glmtools))
   - [knowledge-guided machine learning](https://sites.google.com/umn.edu/kgml/home) to simulate in-lake oxygen dynamics/carbon on a large scale
