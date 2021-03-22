@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+<br/><img src='/images/numericallakemodel.gif'>
+
 Welcome, my name is Robert. I am a hydrologist with a keen interest in computational limnology.
 
 I am a Postdoc at the [Center for Limnology](https://limnology.wisc.edu/) at the University of Wisconsin-Madison advised by [Hilary Dugan](https://dugan.limnology.wisc.edu/) and [Paul Hanson](http://hanson.limnology.wisc.edu) working on simulating aquatic ecosystems using [GLM-AED2](http://aed.see.uwa.edu.au/research/models/GLM/). A main focus of my research is to develop tools that ease the application of numerical models for first-time users. I am interested in investigating feedback mechanisms between atmospheric drivers, the catchment and in-lake stratification/mixing dynamics. Recently, a focus of my work is on understanding what is driving dissolved oxygen depletion dynamics in lakes.
@@ -17,9 +19,7 @@ My current research interests in a nutshell:
   - long-term dissolved oxygen depletion dynamics in lakes (anoxia in [Lake Mendota](https://doi.org/10.5194/hess-25-1009-2021), metalimnetic oxygen minimum)
   - investigating the impact of climate change on future lake mixing dynamics ([Lake Tegel](https://www.mdpi.com/2073-4441/10/2/186))
   - integrating stochastic processes into deterministic models, e.g. to improve simulations of phytoplankton bloom dynamics
-- water resources management:
-  - resevoir management to avoid dead storage due to future drought events ([Itupararanga reservoir](https://www.sciencedirect.com/science/article/pii/S0048969720382747?via%3Dihub))
-  - improving the sustainable management of urban water resources ([PhD thesis](https://depositonce.tu-berlin.de/handle/11303/9203))
+- water resources management (e.g., [Lake Tegel](https://depositonce.tu-berlin.de/handle/11303/9203), [Itupararanga reservoir](https://www.sciencedirect.com/science/article/pii/S0048969720382747?via%3Dihub))
 - aquatic ecosystem modeling:
   - open source scientific software for running and post-processing numerical models (e.g., [LakeEnsemblR](https://github.com/aemon-j/LakeEnsemblR)/[paper](https://eartharxiv.org/repository/view/1960/), [glmtools](https://github.com/USGS-R/glmtools))
   - [knowledge-guided machine learning](https://sites.google.com/umn.edu/kgml/home) to simulate in-lake oxygen dynamics/carbon on a large scale
