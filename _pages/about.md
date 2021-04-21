@@ -23,7 +23,7 @@ My current research interests in a nutshell:
 - sustainable water resources management (e.g., [Lake Tegel](https://depositonce.tu-berlin.de/handle/11303/9203), [Itupararanga reservoir](https://www.sciencedirect.com/science/article/pii/S0048969720382747?via%3Dihub))
 - aquatic ecosystem modeling:
   - open source scientific software for running and post-processing numerical models (e.g., [LakeEnsemblR](https://github.com/aemon-j/LakeEnsemblR)/[paper](https://eartharxiv.org/repository/view/1960/), [glmtools](https://github.com/USGS-R/glmtools))
-  - [knowledge-guided machine learning](https://sites.google.com/umn.edu/kgml/home) to simulate in-lake oxygen dynamics/carbon on a large scale
+  - [knowledge-guided machine learning](https://sites.google.com/umn.edu/kgml/home) to simulate in-lake oxygen/carbon dynamics on a large scale
   
 
 I did my PhD work at the [Leibniz-Institute of Freshwater Ecology and Inland Fisheries (IGB)](https://www.igb-berlin.de/en) in Berlin, Germany, supervised by [Michael Hupfer](https://www.igb-berlin.de/en/hupfer) and [Reinhard Hinkelmann](https://www.wahyd.tu-berlin.de/menue/about_us/team/head/prof_dr-ing_reinhard_hinkelmann/). Here, I studied the impact of multiple stressors on urban lakes using field sampling, monitoring and numerical modeling (e.g. vertical 1D GLM-AED2, vertical 1D FLake, depth-averaged 2D open TELEMAC-MASCARET). 
