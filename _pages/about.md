@@ -18,7 +18,7 @@ I am a Postdoctoral Research Fellow at the [Center for Limnology](https://limnol
 My current research interests in a nutshell:
 - lake phenology (i.e., stratification and ice dynamics, lake metabolism, phytoplankton blooms):
   - long-term dissolved oxygen depletion dynamics in lakes (anoxia in [Lake Mendota](https://doi.org/10.5194/hess-25-1009-2021), metalimnetic oxygen minimum)
-  - investigating the impact of climate change on future lake mixing dynamics ([Lake Tegel](https://www.mdpi.com/2073-4441/10/2/186), [Global analysis](https://www.nature.com/articles/s41467-021-22657-4))
+  - investigating the impact of climate change on future lake mixing dynamics ([Lake Tegel](https://www.mdpi.com/2073-4441/10/2/186), [Ensemble analysis](https://www.nature.com/articles/s41467-021-22657-4))
   - integrating stochastic processes into deterministic models, e.g. to improve simulations of phytoplankton bloom dynamics
 - sustainable water resources management (e.g., [Lake Tegel](https://depositonce.tu-berlin.de/handle/11303/9203), [Itupararanga reservoir](https://www.sciencedirect.com/science/article/pii/S0048969720382747?via%3Dihub))
 - aquatic ecosystem modeling:
