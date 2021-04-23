@@ -34,7 +34,7 @@ Here is an overview of some of my software projects:
 
 <a href="https://github.com/robertladwig/LakeEnsemblR"><img src="/images/logo.png" align="left" height="230" width="230" ></a>
 <a href="https://github.com/robertladwig/thermod"><img src="/images/thermod.png" align="center" height="220" width="220" ></a>
-<a href="https://github.com/LimnoDataScience/odem.data"><img src="/images/odem_logo-01.png" align="right" height="220" width="220" ></a>
+<a href="https://github.com/LimnoDataScience/metabolism_phenology"><img src="/images/odem_logo-01.png" align="right" height="220" width="220" ></a>
 
 
 
