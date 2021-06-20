@@ -12,7 +12,7 @@ redirect_from:
 # Running a lake model in R
 updated: 06-20-2021
 
-[Here's an updated description of how to run a simple two-layer lake model in R](https://robertladwig.github.io/pdf/thermod_LakeMendota.html)
+[Here's an updated description of how to run a simple two-layer lake model in R (click this!)](https://robertladwig.github.io/pdf/thermod_LakeMendota.html)
 
 # Writing a two-layer thermodynamic model in R
 updated: 04-16-2020
