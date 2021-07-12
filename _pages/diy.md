@@ -14,6 +14,8 @@ updated: 06-20-2021
 
 [Here's an updated description of how to run a simple two-layer lake model in R (click this!), which simulates water temperature, dissolved oxygen, phytoplankton, zooplankton and phosphorus dynamics.](https://robertladwig.github.io/pdf/thermod_LakeMendota.html)
 
+<br/><img src='/images/thermodnpz.png'>
+
 # Writing a two-layer thermodynamic model in R
 updated: 04-16-2020
 ## Introduction
